@@ -1,0 +1,35 @@
+body{
+  background-color: #3C4048;
+}
+.container{
+  width: 50%;
+  margin: 1rem auto 1rem auto;
+  text-align: center;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+  margin-right: 4rem;
+
+  
+}
+h1{
+  color: red;
+  font-size: 6rem;
+  font-style: italic;
+}
+h2{
+  font-size: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aquamarine;
+}
+footer{
+  margin-top: 5%;
+  text-align: center;
+  color: aliceblue;
+}
+img{
+  width: 50%;
+  
+}
+
